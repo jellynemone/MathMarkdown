@@ -1,5 +1,3 @@
-![Gitea forks](http://shields.dvurechensky.pro/gitea/forks/dvurechensky_pro/%20Math_Markdown)
-
 # 🌀 Математика в Markdown 🌀
 
 ## Арифметика 👀
