@@ -1,3 +1,5 @@
+<p align="center">✨Dvurechensky✨</p>
+
 # 🌀 Математика в Markdown 🌀
 
 ## Арифметика 👀
@@ -154,4 +156,4 @@
 |Omega|`$\omega$`|$\omega$|`$\Omega$`|$\Omega$|
 ---
 
-<p align="center"> Создано Dvurechenky</p>
+<p align="center">✨Dvurechensky✨</p>
